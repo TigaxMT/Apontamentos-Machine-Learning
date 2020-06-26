@@ -3,7 +3,7 @@ Neste repositório estarão disponíveis apontamentos e explicações que escrev
 O objetivo é tentar entender como os algoritmos realmente funcionam, esmiuçando a matemática e tornando tudo o mais simples possível.\
 Terão também algumas dicas simples de Numpy, Pandas, Matplotlib e Análise de Dados.
 #### Nota
-Independentemente de quererem apenas esclarecer algo acerca de um algoritmo, leiam primeiro a [Introdução](https://github.com/TigaxMT/Apontamentos-Machine-Learning/blob/master/00.%20Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.pdf). Poderá conter informações importantes para vocês.\
+Independentemente de quererem apenas esclarecer algo acerca de um algoritmo, leiam primeiro a [Introdução](https://github.com/TigaxMT/Apontamentos-Machine-Learning/blob/master/00.%20Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.pdf). Poderá conter informações importantes para vocês.
 
 # Livros
 Na introdução já tinha falado acerca disto, mas quero deixar bem claro que estes resumos foram feitos com base nestes 2 livros:
@@ -22,7 +22,7 @@ Queria agradecer a todas as estas pessoas que de alguma forma, direta ou indiret
 
 
 Espero que tudo isto possa ajudar alguém. E estão **TODOS** convidados a corrigir os apontamentos, sejam erros gramaticais ou nas explicações. Podem também sugerir adicionar/remover conteúdos, e claro devem sempre esclarecer as vossas dúvidas!\
-Podem abrir issues ou contactar-me via redes sociais. **Este é para ser um projeto da COMUNIDADE e não um projeto meu!**\
+Podem abrir issues ou contactar-me via redes sociais. **Este é para ser um projeto da COMUNIDADE e não um projeto meu!**
 
 # Contactos
 * [Twitter](https://twitter.com/iN127pkt)
