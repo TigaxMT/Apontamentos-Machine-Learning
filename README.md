@@ -12,6 +12,17 @@ Na introdução já tinha falado acerca disto, mas quero deixar bem claro que es
 
 Tudo está mais claro na Introdução.
 
+# Jupyter Notebooks
+Se repararem, acompanhados dos PDFs vêm ficheiros com extensão `.ipynb`. Estes ficheiros são Jupyter Notebooks, o que me permite explicar a teoria, escrever código e compilar tudo num PDF, e assim vocês também podem tomar notas neles.\
+## Como instalar
+Podem sempre consultar [esta](https://jupyter.org/install.html) página, mas desde que tenham o pip (normalmente vem em conjunto com o Python) ou o conda, podem instalar facilmente (via terminal/consola):
+
+`pip install notebook`
+
+Depois para executar o Jupyter Notebook basta:
+
+`jupyter notebook`
+
 # Agradecimentos
 Queria agradecer a todas as estas pessoas que de alguma forma, direta ou indiretamente, motivaram-me a querer entender melhor ciência de dados, machine learning e deep learning. Muitas delas nem sabem que eu existo, outras sabem, mas o agradecimento é igual para todos:
 * [Letícia Silva](https://leticiadasilva.github.io/)
