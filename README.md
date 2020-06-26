@@ -3,7 +3,7 @@ Neste repositório estarão disponíveis apontamentos e explicações que escrev
 O objetivo é tentar entender como os algoritmos realmente funcionam, esmiuçando a matemática e tornando tudo o mais simples possível.\
 Terão também algumas dicas simples de Numpy, Pandas, Matplotlib e Análise de Dados.\
 #### Nota
-Independentemente de quererem apenas esclarecer algo acerca de um algoritmo, leiam primeiro a Introdução. Poderá conter informações importantes para vocês.\
+Independentemente de quererem apenas esclarecer algo acerca de um algoritmo, leiam primeiro a [Introdução](https://github.com/TigaxMT/Apontamentos-Machine-Learning/blob/master/00.%20Introdu%C3%A7%C3%A3o/Introdu%C3%A7%C3%A3o.pdf). Poderá conter informações importantes para vocês.\
 
 # Livros
 Na introdução já tinha falado acerca disto, mas quero deixar bem claro que estes resumos foram feitos com base nestes 2 livros:
