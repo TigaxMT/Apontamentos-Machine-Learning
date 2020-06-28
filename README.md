@@ -1,5 +1,5 @@
 # Apontamentos-Machine-Learning
-Neste repositório estarão disponíveis apontamentos e explicações que escrevi enquanto lia alguns livro de Machine Learning.\
+Neste repositório estarão disponíveis apontamentos e explicações que escrevi enquanto lia alguns livros de Machine Learning.\
 O objetivo é tentar entender como os algoritmos realmente funcionam, esmiuçando a matemática e tornando tudo o mais simples possível.\
 Terão também algumas dicas simples de Numpy, Pandas, Matplotlib e Análise de Dados.
 #### Nota
@@ -37,7 +37,7 @@ Não li completamente o livro, mas pareceu-me bastante bom e acho que susbtitui 
 
 Bem este artigo tem vários links para playlists e cursos (pelo que vi grande maioria é em português) de diversas matérias de matemática que são muito usadas em Ciência de Dados em geral. Para quem não entende inglês acho que é uma excelente alternativa ao curso *Essential Math for Machine Learning: Python Edition*
 
-**A melhor recomendação que posso fazer é não tentem aprender tudo isto de uma vez!** Se forem como eu e não descansam até entender minimamente o que está por detrás dos algoritmos, então vejam os meus apontamentos de Machine Learning e façam esses cursos de matemática. Após isso leiam então algum desses livros que citei, onde explicam a matemática, e aí conseguirão entender melhor e saciar os vossos porquês e finalmente passar à prática!\
+**A melhor recomendação que posso fazer é não tentem aprender tudo isto de uma vez!** Se forem como eu e não descansam até entender minimamente o que está por detrás dos algoritmos, então vejam os meus apontamentos de Machine Learning e façam estes cursos de matemática. Após isso leiam algum destes livros que citei, onde explicam a matemática, e aí conseguirão entender melhor e saciar os vossos porquês e finalmente passar à prática!\
 Caso gostem mais de prática, não liguem tanto para a matemática e foquem em entender os frameworks (scikit learn, por exemplo) e comecem a fazer pequenos projetos para treinarem as vossas skills, e aos poucos vão dando uma olhadinha no que se passa por detrás dos panos.
 
 **Lembrando novamente, que os apontamentos foram feitos com base nos primeiros 2 livros, logo não precisam de ler os livros completamente (a menos que o queiram fazer).**
@@ -56,7 +56,7 @@ Depois para executar o Jupyter Notebook basta:
 `jupyter notebook`
 
 # Agradecimentos
-Queria agradecer a todas as estas pessoas que de alguma forma, direta ou indiretamente, motivaram-me a querer entender melhor ciência de dados, machine learning e deep learning. Muitas delas nem sabem que eu existo, outras sabem, mas o agradecimento é igual para todos:
+Queria agradecer a estas pessoas que de alguma forma, direta ou indiretamente, motivaram-me a querer entender melhor ciência de dados, machine learning e deep learning. Muitas delas nem sabem que eu existo, outras sabem, mas o agradecimento é igual para todos:
 * [Letícia Silva](https://leticiadasilva.github.io/)
 * [Mikaeri Ohana](https://www.instagram.com/miohana/?hl=pt)
 * [Ana Paula Mendes](https://anapaulamendes.github.io/)
