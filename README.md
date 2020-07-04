@@ -1,5 +1,5 @@
 # Apontamentos-Machine-Learning
-Neste repositório estarão disponíveis apontamentos e explicações que escrevi enquanto lia alguns livro de Machine Learning.\
+Neste repositório estarão disponíveis apontamentos e explicações que escrevi enquanto lia alguns livros de Machine Learning.\
 O objetivo é tentar entender como os algoritmos realmente funcionam, esmiuçando a matemática e tornando tudo o mais simples possível.\
 Terão também algumas dicas simples de Numpy, Pandas, Matplotlib e Análise de Dados.
 #### Nota
@@ -13,28 +13,34 @@ Na introdução já tinha falado acerca disto, mas quero deixar bem claro que es
 Tudo está mais claro na Introdução.
 
 # Recomendações de Livros e Cursos
-Vou começar por referir livros e cursos que eu realmente li/fiz\
+Vou começar por referir livros e cursos que eu realmente li/fiz
+
 **Livros em Inglês**:
 * An Introduction to Statistical Learning: With Applications in R
 * Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition
 
 O primeiro é um pouco mais profundo na questão da matemática e é bem mais teórico, apesar de no fim de cada capítulo ter exemplos em R.\
-O segundo ensina como implementar algoritmos de machine learning do 0, assim como usar o scikit learn. Também explica a matemática por trás dos algoritmos mas achei um pouco mais leve. Lembrando que só estou a falar da parte de Machine Learning e não de Deep Learning.\
+O segundo ensina como implementar algoritmos de machine learning do 0, assim como usar o scikit learn. Também explica a matemática por trás dos algoritmos mas achei um pouco mais leve. Lembrando que só estou a falar da parte de Machine Learning e não de Deep Learning.
+
 **Cursos em Inglês**:
 * Essential Math for Machine Learning: Python Edition
 
-Este é um curso de matemática que vai ajudar-vos muito a ter algumas bases matemáticas (com foco em Machine Learning). Têm notebooks com explicações e exemplos em Python (usando Numpy e Matplotlib). Recomendo imenso este curso e a melhor parte é que é **gratuito** (têm apenas 1 mês gratuito, após isso todo o vosso progresso é apagado e acho que perdem acesso aos notebooks).\
+Este é um curso de matemática que vai ajudar-vos muito a ter algumas bases matemáticas (com foco em Machine Learning). Têm notebooks com explicações e exemplos em Python (usando Numpy e Matplotlib). Recomendo imenso este curso e a melhor parte é que é **gratuito** (têm apenas 1 mês gratuito, após isso todo o vosso progresso é apagado e acho que perdem acesso aos notebooks).
+
 **Livros em Português**:
 * Data Science do Zero
 
-Não li completamente o livro, mas pareceu-me bastante bom e acho que susbtitui bem o *Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition* (estou a falar apenas da parte de Machine Learning).\
+Não li completamente o livro, mas pareceu-me bastante bom e acho que susbtitui bem o *Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition* (estou a falar apenas da parte de Machine Learning).
+
 **Curso em Português**:
 * [Matemáticas para machine learning](https://matheusfacure.github.io/2017/01/15/pre-req-ml/)
 
 Bem este artigo tem vários links para playlists e cursos (pelo que vi grande maioria é em português) de diversas matérias de matemática que são muito usadas em Ciência de Dados em geral. Para quem não entende inglês acho que é uma excelente alternativa ao curso *Essential Math for Machine Learning: Python Edition*
 
-**A melhor recomendação que posso fazer é não tentem aprender tudo isto de uma vez!** Se forem como eu e não descansam até entender minimamente o que está por detrás dos algoritmos, então vejam os meus apontamentos de Machine Learning e façam esses cursos de matemática. Após isso leiam então algum desses livros que citei, onde explicam a matemática, e aí conseguirão entender melhor e saciar os vossos porquês e finalmente passar à prática!\
-Caso gostem mais de prática, não liguem tanto para a matemática e foquem em entender os frameworks (scikit learn, por exemplo) e comecem a fazer pequenos projetos para treinarem as vossas skills, e aos poucos vão dando uma olhadinha no que se passa por detrás dos panos.\
+**A melhor recomendação que posso fazer é não tentem aprender tudo isto de uma vez!** Se forem como eu e não descansam até entender minimamente o que está por detrás dos algoritmos, então vejam os meus apontamentos de Machine Learning e façam estes cursos de matemática. Após isso leiam algum destes livros que citei, onde explicam a matemática, e aí conseguirão entender melhor e saciar os vossos porquês e finalmente passar à prática!\
+Caso gostem mais de prática, não liguem tanto para a matemática e foquem em entender os frameworks (scikit learn, por exemplo) e comecem a fazer pequenos projetos para treinarem as vossas skills, e aos poucos vão dando uma olhadinha no que se passa por detrás dos panos.
+
+**Lembrando novamente, que os apontamentos foram feitos com base nos primeiros 2 livros, logo não precisam de ler os livros completamente (a menos que o queiram fazer).**
 #### Nota
 Eu referi livros, porque é o formato que eu mais utilizo para aprender. No entanto, estou certo que existem cursos em formato de vídeo muito bons! Fiquem à vontade para sugerir ou mesmo adicionar neste documento, esses cursos!
 
@@ -50,7 +56,7 @@ Depois para executar o Jupyter Notebook basta:
 `jupyter notebook`
 
 # Agradecimentos
-Queria agradecer a todas as estas pessoas que de alguma forma, direta ou indiretamente, motivaram-me a querer entender melhor ciência de dados, machine learning e deep learning. Muitas delas nem sabem que eu existo, outras sabem, mas o agradecimento é igual para todos:
+Queria agradecer a estas pessoas que de alguma forma, direta ou indiretamente, motivaram-me a querer entender melhor ciência de dados, machine learning e deep learning. Muitas delas nem sabem que eu existo, outras sabem, mas o agradecimento é igual para todos:
 * [Letícia Silva](https://leticiadasilva.github.io/)
 * [Mikaeri Ohana](https://www.instagram.com/miohana/?hl=pt)
 * [Ana Paula Mendes](https://anapaulamendes.github.io/)
