@@ -490,7 +490,7 @@ print("Índice do mínimo da matriz: ", matriz.argmin())
 # In[28]:
 
 
-# Vamos criar uma matriz com 5 linhas e 4 colunas
+# Vamos criar uma matriz com 4 linhas e 4 colunas
 
 matriz = np.array([
     [1,2,3,4],
