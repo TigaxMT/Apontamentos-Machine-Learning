@@ -502,7 +502,7 @@ matriz = np.array([
 print(matriz)
 
 
-# Ok, agora que temos a nossa matriz, vamos comer a "fatiá-la".<br><br>
+# Ok, agora que temos a nossa matriz, vamos começar a "fatiá-la".<br><br>
 # Vamos começar pelas linhas, eu quero apenas mostrar a linha 2 e 3.
 # 
 # #### Nota
